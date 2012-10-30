@@ -1,4 +1,6 @@
 """
+Author: Sanil Sampat
+Date:   10 / 28 / 12
 Usage: 
 
         $ python rentingSystem.py
